@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Python Projects:</h2>
 
-- 8 Puzzle Solver 
+- 8 Puzzle Solver (https://github.com/brianwong778/Eight-Puzzle-Solver)
 
 
 
