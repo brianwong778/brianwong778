@@ -1,6 +1,6 @@
 <h1>Hi, I'm Brian! </h1>
 
-<h2>👨‍💻 Coding Projects:</h2>
+<h2>👨‍💻 Python Projects:</h2>
 
 - 8 Puzzle Solver 
 
