@@ -3,6 +3,7 @@
 <h2>🐍 Python Projects:</h2>
 
 - 8 Puzzle Solver (https://github.com/brianwong778/Eight-Puzzle-Solver)
+- Pub/Sub Cloud Stream Tracker(https://github.com/brianwong778/Cloud-Stream-Tracker-Pub-Sub)
 
 <h2>🎨 Front-end Projects:</h2>
 
