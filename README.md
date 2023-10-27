@@ -20,7 +20,7 @@
 [<img align="left" alt="Brian Wong | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 
-[instagram]: https://www.instagram.com/brianwon.g/?hl=en
+
 [linkedin]: https://www.linkedin.com/in/brian-wong-5242b6224/
 
 
