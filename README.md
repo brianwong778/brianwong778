@@ -17,8 +17,6 @@
 
 
 [<img align="left" alt="Brian Wong | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Brian Wong | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
 
 
 [linkedin]: https://www.linkedin.com/in/brian-wong-5242b6224/
