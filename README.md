@@ -4,6 +4,10 @@
 
 - 8 Puzzle Solver (https://github.com/brianwong778/Eight-Puzzle-Solver)
 
+<h2>👨‍💻 Front-end Projects:</h2>
+
+- Pinterest Clone (HTML,CSS,JS) (https://github.com/brianwong778/Pinterest-Clone)
+
 
 
 
