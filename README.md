@@ -6,7 +6,7 @@
 
 <h2>🐍 Python Projects:</h2>
 
-- Cloud Stream Tracker (Python, MySQL, Flask, GCP) (https://github.com/brianwong778/Cloud-Stream-Tracker)
+- Cloud Stream Tracker (Flask, MySQL, GCP) (https://github.com/brianwong778/Cloud-Stream-Tracker)
 
 - 8 Puzzle Solver (https://github.com/brianwong778/Eight-Puzzle-Solver)
 
