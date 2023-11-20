@@ -1,6 +1,6 @@
 <h1>Hi, I'm Brian! </h1>
 
-<h2>Full Stack Projects: </h2>
+<h2>🌐 Full Stack Projects: </h2>
 
 - PiggyBank (React,Flask,MySQL,GCP) - BostonHacks 2023 Capital One Best Financial Hack Winner (https://github.com/brianwong778/PiggyBank-BostonHacks)
 
