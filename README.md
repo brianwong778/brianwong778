@@ -3,6 +3,8 @@
 <h2>🌐 Full Stack Projects: </h2>
 
 - PiggyBank (React, Flask, MySQL, GCP) - BostonHacks 2023 Capital One Best Financial Hack Winner (https://github.com/brianwong778/PiggyBank-BostonHacks)
+  
+- Neural Network Fruit Classifier (Pytorch, MongoDB, Streamlit) (https://github.com/brianwong778/Neural-Network-Fruit-Classifier)
 
 <h2>🐍 Python Projects:</h2>
 
