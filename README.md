@@ -17,6 +17,10 @@
 
 - Pinterest Clone (HTML,CSS,JS) (https://github.com/brianwong778/Pinterest-Clone)
 
+<h2>Others:</h2>
+
+- Cloud Computing - DS561 (https://github.com/brianwong778/Cloud-Computing-DS561)
+
 
 
 
