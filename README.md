@@ -1,36 +1,38 @@
-<h1>Hi, I'm Brian! </h1>
+<h1>Hi, I'm Brian!</h1>
 
-<h2>🌐 Full Stack Projects: </h2>
+<h2>🌐 Full Stack Projects:</h2>
 
-- PiggyBank (React, Flask, MySQL, GCP) - BostonHacks 2023 Capital One Best Financial Hack Winner (https://github.com/brianwong778/PiggyBank-BostonHacks)
-  
-- Neural Network Fruit Classifier (PyTorch, MongoDB, Streamlit) (https://github.com/brianwong778/Neural-Network-Fruit-Classifier)
+<ul>
+  <li><a href="https://github.com/brianwong778/PiggyBank-BostonHacks">PiggyBank</a> (React, Flask, MySQL, GCP) - BostonHacks 2023 Capital One Best Financial Hack Winner</li>
+  <li><a href="https://github.com/brianwong778/Neural-Network-Fruit-Classifier">Neural Network Fruit Classifier</a> (PyTorch, MongoDB, Streamlit)</li>
+</ul>
 
 <h2>🐍 Python Projects:</h2>
 
-- Cloud Request Tracker (Flask, MySQL, GCP) (https://github.com/brianwong778/Cloud-Request-Tracker)
-
-- 8 Puzzle Solver (https://github.com/brianwong778/Eight-Puzzle-Solver)
-
+<ul>
+  <li><a href="https://github.com/brianwong778/Cloud-Request-Tracker">Cloud Request Tracker</a> (Flask, MySQL, GCP)</li>
+  <li><a href="https://github.com/brianwong778/Eight-Puzzle-Solver">8 Puzzle Solver</a></li>
+</ul>
 
 <h2>🎨 Front-end Projects:</h2>
 
-- Pinterest Clone (HTML,CSS,JS) (https://github.com/brianwong778/Pinterest-Clone)
+<ul>
+  <li><a href="https://github.com/brianwong778/Pinterest-Clone">Pinterest Clone</a> (HTML, CSS, JS)</li>
+</ul>
 
 <h2>Others:</h2>
 
-- Cloud Computing - DS561 (https://github.com/brianwong778/Cloud-Computing-DS561)
+<ul>
+  <li><a href="https://github.com/brianwong778/Cloud-Computing-DS561">Cloud Computing - DS561</a></li>
+</ul>
 
+<h2>🤳 Connect with me:</h2>
 
+<p>
+  <a href="https://www.linkedin.com/in/brian-wong-5242b6224/](https://www.linkedin.com/in/brianwong778/)">
+    <img align="left" alt="Brian Wong | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
+  </a>
+</p>
 
-
-<h2> 🤳 Connect with me:</h2>
-
-
-
-[<img align="left" alt="Brian Wong | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-
-[linkedin]: https://www.linkedin.com/in/brian-wong-5242b6224/
-
-
+<!-- Clear the float -->
+<div style="clear: both;"></div>
