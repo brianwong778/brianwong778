@@ -29,7 +29,7 @@
 <h2>🤳 Connect with me:</h2>
 
 <p>
-  <a href="https://www.linkedin.com/in/brian-wong-5242b6224/](https://www.linkedin.com/in/brianwong778/)">
+  <a href="https://www.linkedin.com/in/brianwong778/">
     <img align="left" alt="Brian Wong | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
   </a>
 </p>
