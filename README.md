@@ -4,6 +4,7 @@
 
 <ul>
   <li><a href="https://github.com/brianwong778/PiggyBank-BostonHacks">PiggyBank</a> (React, Flask, MySQL, GCP) - BostonHacks 2023 Capital One Best Financial Hack Winner</li>
+  <li><a href="https://github.com/brianwong778/Ticketmaster-To-Google-Calendar">Ticketmaster to Google Calendar</a> (React, Node, Express, PostgreSQL)</li>
   <li><a href="https://github.com/brianwong778/Neural-Network-Fruit-Classifier">Neural Network Fruit Classifier</a> (PyTorch, MongoDB, Streamlit)</li>
 </ul>
 
