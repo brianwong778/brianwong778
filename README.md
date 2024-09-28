@@ -25,6 +25,10 @@
 
 <ul>
   <li><a href="https://github.com/brianwong778/Cloud-Computing-DS561">Cloud Computing - DS561</a></li>
+  <li><a href="https://github.com/brianwong778/Distributed-Systems-CS350---Raft-Consensus-Algorithm">Distributed Systems: Raft Consensus Algorithm - CS350</a></li>
+
+
+  
 </ul>
 
 <h2>🤳 Connect with me:</h2>
